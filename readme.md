@@ -11,7 +11,7 @@ Created with ChatGPT.
 1. **Clone or download this repository**
 
     ```bash
-    git clone https://github.com/<your-username>/simple-chrome-session-remover.git
+    git clone https://github.com/KaungPyaeSoneAung2/Session-Nuker.git
     ```
 
 2. **Load the extension in Chrome**
