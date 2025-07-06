@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Session Nuker",
+    "version": "1.0",
+    "description": "Clear app session of the current tab on click",
+    "permissions": ["cookies", "scripting", "activeTab", "storage"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_title": "Clear session"
+    },
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    }
+}
